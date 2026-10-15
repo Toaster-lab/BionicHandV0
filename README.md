@@ -1,6 +1,7 @@
 # BionicHandV0
 
-##Purpose
+## Purpose
+
 *Combining my growing machine learning skills with my passion for building things.
 *Starting with a cardboard prototype and gradually learning how to design and 3D-print a more advanced versions.
 *Learning to pick out the right parts/material and finding solutions for problems.
